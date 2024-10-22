@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
