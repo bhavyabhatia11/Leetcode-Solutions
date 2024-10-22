@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -99,4 +101,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
