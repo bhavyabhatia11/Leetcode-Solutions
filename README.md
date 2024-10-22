@@ -34,8 +34,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
