@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
