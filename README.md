@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
