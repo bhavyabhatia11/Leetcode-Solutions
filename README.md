@@ -30,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
