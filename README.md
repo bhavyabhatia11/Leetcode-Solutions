@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
