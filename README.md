@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
