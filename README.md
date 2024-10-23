@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
