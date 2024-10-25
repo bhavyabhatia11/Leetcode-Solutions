@@ -117,15 +117,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
