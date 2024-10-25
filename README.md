@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -142,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhavyabhatia11/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
