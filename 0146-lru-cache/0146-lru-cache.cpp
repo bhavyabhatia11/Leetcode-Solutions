@@ -1,76 +1,132 @@
+class Node
+{
+    public:
+    int key;
+    int value;
+    Node *next;
+    Node *prev;
+    Node(int k, int v){
+        key = k;
+        value = v;
+        next = NULL;
+        prev = NULL;
+
+    }
+};
+
+
 class LRUCache {
 public:
-    class Node{
-        public: 
-            int key;
-            int val;
-            Node* prev;
-            Node* next;
-
-            Node(int key, int val){
-                this->key = key;
-                this->val = val;
-            }
-    };
-
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
-
+    Node* dll = NULL;
+    Node* start = NULL;
+    Node* end = NULL;
+    unordered_map<int, Node*> mp;
     int cap;
-    unordered_map<int, Node*> m;
+
+
+    void insertNode(int key, int value) {
+        if(start == NULL && end == NULL){
+            start = new Node(key, value);
+            end = start;
+        }
+        else{
+            end->next = new Node(key, value);
+            end->next->prev = end;
+            end = end->next;
+        }
+        
+        mp[key] = end;
+        return;
+    }
+
+    void moveNode(Node* node){
+
+        if(node == end) return;
+        if(node == start) {
+            end->next = start;
+            start->prev = end;
+            end = end->next;
+
+            start = start->next;
+            start->prev = NULL;
+            return;
+        }
+
+        Node* temp = node;
+
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+
+        end->next = temp;
+        temp->prev = end;
+
+        end = end->next;
+        return;
+    }
+
+    void evictNode(){
+        mp.erase(start->key);
+        if(start == end){
+            end = NULL;
+            start = NULL;
+            return;
+        }
+        start = start->next;
+        start->prev = NULL;
+        return;
+    }
+
+    void printNodes(){
+        Node* temp = start;
+
+        cout << cap << ":    " << mp.size() << ":      ";
+        while(temp){
+            cout << temp->key << "," << temp->value << " ";
+            temp=temp->next;
+        }
+        cout << endl;
+    }
+
+
 
     LRUCache(int capacity) {
         cap = capacity;
-        head -> next = tail;
-        tail -> prev = head;
-    }
-
-    void addNode(Node* newnode){
-        Node* temp = head -> next;
-
-        newnode -> next = temp;
-        newnode -> prev = head;
-
-        head -> next = newnode;
-        temp -> prev = newnode;
-    }
-
-    void deleteNode(Node* delnode){
-        Node* prevv = delnode -> prev;
-        Node* nextt = delnode -> next;
-
-        prevv -> next = nextt;
-        nextt -> prev = prevv;
     }
     
     int get(int key) {
-        if(m.find(key) != m.end()){
-            Node* resNode = m[key];
-            int ans = resNode -> val;
 
-            m.erase(key);
-            deleteNode(resNode);
-            addNode(resNode);
-
-            m[key] = head -> next;
-            return ans;
+        if(mp.find(key) != mp.end()){
+            Node* node = mp[key];
+            moveNode(node);
+            return end->value;
         }
-        return -1;
+        else{
+            return -1;
+        }
+
     }
     
     void put(int key, int value) {
-        if(m.find(key) != m.end()){
-            Node* curr = m[key];
-            m.erase(key);
-            deleteNode(curr);
+        if (mp.find(key) != mp.end()) {
+            // If the key already exists, update the value and move the node to the end
+            Node* node = mp[key];
+            node->value = value;
+            moveNode(node);
+        } else {
+            // Evict the least recently used node if capacity is full
+            while (mp.size() >= cap) {
+                evictNode();
+            }
+            // Insert the new key-value pair
+            insertNode(key, value);
         }
-
-        if(m.size() == cap){
-            m.erase(tail -> prev -> key);
-            deleteNode(tail -> prev);
-        }
-
-        addNode(new Node(key, value));
-        m[key] = head -> next;
+        // printNodes();
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
